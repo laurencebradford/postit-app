@@ -127,7 +127,6 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (~> 2.3.2.0)
-  bundler (~> 1.7.3)
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
